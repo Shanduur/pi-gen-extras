@@ -1,0 +1,13 @@
+# image base
+IMG_NAME=vmbian
+RELEASE=buster
+STAGE_LIST="stage0 stage1 stage2-trim"
+
+# user account
+TARGET_HOSTNAME=vmbian
+LOCALE_DEFAULT="en_US.UTF-8"
+KEYBOARD_KEYMAP=us
+KEYBOARD_LAYOUT="English (US)"
+FIRST_USER_NAME=user0
+FIRST_USER_PASS=passw0rd
+ENABLE_SSH=1

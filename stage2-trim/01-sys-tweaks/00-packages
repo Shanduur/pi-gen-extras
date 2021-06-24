@@ -1,0 +1,24 @@
+dropbear less fbset sudo psmisc strace ed ncdu crda
+console-setup debconf-utils parted unzip
+python python3 bash-completion pkg-config
+lua5.1
+luajit
+hardlink ca-certificates curl
+fake-hwclock nfs-common usbutils
+dosfstools
+dphys-swapfile
+raspberrypi-sys-mods
+pi-bluetooth
+apt-listchanges
+usb-modeswitch
+rpi-update
+libmtp-runtime
+rsync
+htop
+man-db
+rng-tools
+ethtool
+vl805fw
+ntfs-3g
+pciutils
+rpi-eeprom
