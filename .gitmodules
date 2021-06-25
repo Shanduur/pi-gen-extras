@@ -1,3 +1,6 @@
 [submodule "pi-gen"]
 	path = pi-gen
 	url = https://github.com/RPi-Distro/pi-gen
+[submodule "stage2-trim/04-update-kernel/files"]
+	path = stage2-trim/04-update-kernel/files
+	url = https://github.com/Hexxeh/rpi-update.git
