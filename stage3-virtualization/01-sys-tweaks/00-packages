@@ -1,0 +1,1 @@
+qemu qemu-img qemu-system-arm libvirt-daemon libvirt-daemon-system
