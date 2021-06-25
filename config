@@ -1,7 +1,7 @@
 # image base
 IMG_NAME=vmbian
 RELEASE=buster
-STAGE_LIST="stage0 stage1 stage2-trim stage3-containerization stage3-virtualization"
+STAGE_LIST="stage0 stage1 stage2-trim stage3-containerization stage4-virtualization"
 
 # user account
 TARGET_HOSTNAME=vmbian
